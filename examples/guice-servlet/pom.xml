@@ -13,7 +13,7 @@
 
   <properties>
     <guice.version>3.0</guice.version>
-    <jetty.version>9.0.4.v20130625</jetty.version>
+    <jetty.version>9.4.34.v20201102</jetty.version>
   </properties>
 
   <dependencies>
